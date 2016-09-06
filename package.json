@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/indiefishman/testproj/issues"
   },
-  "homepage": "https://github.com/indiefishman/testproj#readme"
+  "homepage": "https://github.com/indiefishman/testproj#readme",
+  "dependencies": {
+    "angular": "^1.5.8"
+  }
 }
